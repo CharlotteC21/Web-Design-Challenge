@@ -1,0 +1,31 @@
+/* Lat button */
+.navbar-brand {
+    background-color: rgb(13, 108, 108);
+    padding-left: 15px;
+    padding-right: 15px;
+} 
+h1 {
+    font:bold;
+    color: rgb(13, 108, 108);
+}
+h2 {
+    font:bold;
+    color: rgb(13, 108, 108);
+}
+.main-image {
+    width: 50%;
+    float: left;
+}
+.navbar-brand {
+    padding: 5px; 
+}
+.img-thumbnail {
+    width: 100%;
+}
+h5 {
+    color: rgb(13, 108, 108);
+    text-align: center;
+}
+.card-title {
+    text-align: left;
+}
